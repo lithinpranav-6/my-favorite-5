@@ -1,0 +1,80 @@
+body {
+    background: rgb(61, 3, 153);
+    background: radial-gradient(circle, rgba(61, 3, 153, 1) 28%, rgba(16, 0, 255, 1) 47%, rgba(0, 212, 255, 1) 100%);
+    text-align: center;
+}
+
+img {
+    border: 50%;
+    width: 100px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 20px;
+    color: aliceblue;
+}
+
+p {
+    color: aliceblue;
+}
+
+<ul {
+    color: aliceblue;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.links {
+    float: left;
+    color: white;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+#work {
+    width: 100%;
+    height: 800px;
+    background: rgb(61, 3, 153);
+    background: linear-gradient(180deg, rgba(61, 3, 153, 1) 18%, rgba(0, 215, 255, 0.6110819327731092) 56%, rgba(0, 212, 255, 1) 100%);
+}
+
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: black;
+    margin: 8px auto;
+}
+
+#my favorite books {
+    background: rgb(61, 3, 153);
+    background: linear-gradient(180deg, rgba(61, 3, 153, 1) 18%, rgba(231, 0, 255, 0.6110819327731092) 56%, rgba(0, 212, 255, 1) 100%);
+}
+
+#voc {
+    height: 500;
+    width: 300;
+}
+
+#space {
+    height: 500;
+    width: 300;
+}
